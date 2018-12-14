@@ -16,3 +16,6 @@ We should be able to easily find this reference object in an image, either based
 
 ### Execute the command: 
  python object_size.py --image images/example.png --width 0.955 
+
+![screenshot from 2018-12-14 11-57-39](https://user-images.githubusercontent.com/29462447/49986941-a220c000-ff97-11e8-969c-1c03dff89606.png)
+
