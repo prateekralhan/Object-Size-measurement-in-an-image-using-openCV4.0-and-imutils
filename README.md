@@ -21,3 +21,6 @@ We should be able to easily find this reference object in an image, either based
 
 ![screenshot from 2018-12-14 11-57-50](https://user-images.githubusercontent.com/29462447/49987019-ea3fe280-ff97-11e8-9505-28a6e7793614.png)
 
+![screenshot from 2018-12-14 11-58-02](https://user-images.githubusercontent.com/29462447/49987103-2a06ca00-ff98-11e8-8b2f-902f4ec94dea.png)
+
+
